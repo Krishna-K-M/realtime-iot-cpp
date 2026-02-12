@@ -52,4 +52,4 @@ g++ sensor_client.cpp -o sensor_client
 - Deployment on embedded Linux devices
 
 ## License
-Educational and portfolio use.
+Educational use.
