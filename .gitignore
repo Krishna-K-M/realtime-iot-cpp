@@ -1,0 +1,6 @@
+server
+sensor_client
+sensor_log.txt
+*.o
+*.out
+
